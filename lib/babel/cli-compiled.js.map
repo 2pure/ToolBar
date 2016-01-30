@@ -1,0 +1,1 @@
+{"version":3,"sources":["cli.js"],"names":[],"mappings":";;AAEA,QAAQ,KAAR,CAAc,4FAAd;AACA,QAAQ,IAAR,CAAa,CAAb","file":"cli-compiled.js","sourcesContent":["#!/usr/bin/env node\n\nconsole.error(\"The CLI has been moved into the package `babel-cli`. See http://babeljs.io/docs/usage/cli/\");\nprocess.exit(1);\n"]}

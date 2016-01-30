@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":[],"mappings":"AAAA,MAAM,IAAI,KAAJ,CAAU,0DAAV,CAAN","file":"index-compiled.js","sourcesContent":["throw new Error(\"The node API for `babel` has been moved to `babel-core`.\");\n"]}
