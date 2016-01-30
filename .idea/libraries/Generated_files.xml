@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/my.jsx-compiled.js" />
+        <item url="file://$PROJECT_DIR$/lib/react-dom-compiled.js" />
+        <item url="file://$PROJECT_DIR$/my1-compiled.js" />
+        <item url="file://$PROJECT_DIR$/lib/bootstrap/js/bootstrap-compiled.js" />
+        <item url="file://$PROJECT_DIR$/lib/bootstrap/js/bootstrap.min-compiled.js" />
+        <item url="file://$PROJECT_DIR$/my-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/my.jsx-compiled.js" />
+      <root url="file://$PROJECT_DIR$/lib/react-dom-compiled.js" />
+      <root url="file://$PROJECT_DIR$/my1-compiled.js" />
+      <root url="file://$PROJECT_DIR$/lib/bootstrap/js/bootstrap-compiled.js" />
+      <root url="file://$PROJECT_DIR$/lib/bootstrap/js/bootstrap.min-compiled.js" />
+      <root url="file://$PROJECT_DIR$/my-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
